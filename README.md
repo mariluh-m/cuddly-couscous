@@ -7,7 +7,7 @@
 ## Descrição do sistema
 
 ## Como compilar e executar
-Ambiente usado (Code::Blocks, Dev-C++, VS Code, onlinegdb...) e passo a passo.
+Ambiente usado (onlinegdb) e passo a passo.
 Exemplo pelo terminal: gcc main.c participantes.c jogos.c arquivo.c -o sistema
 
 ## Módulos do projeto
