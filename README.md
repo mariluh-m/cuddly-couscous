@@ -1,10 +1,10 @@
 # Competição de Descascar Camarão
 
-## Integrantes:
+## Integrantes
 - Dara Rech Fritzen
 - Marina Luiza Marques
 
-## Descrição do sistema:
+## Descrição do sistema
 
 ## Como compilar e executar
 Ambiente usado (Code::Blocks, Dev-C++, VS Code, onlinegdb...) e passo a passo.
@@ -27,16 +27,16 @@ Duas equipes:
 4 integrantes cada
 
 Serão 4 rodadas:
-Um integrante de cada equipe por rodada
+um integrante de cada equipe por rodada
 
 Tempo de cada rodada:
 10 minutos
 
 Contagem de pontos:
-Quantidade de camarões descascados ao final da rodada (em gramas)
+quantidade de camarões descascados ao final da rodada (em gramas)
 
 Soma da quantidade ao final do campeonato:
-Quem tiver maior quantidade de camarões descascados ganha o campeonato
+quem tiver maior quantidade de camarões descascados ganha o campeonato
 
 ## Principais decisões tomadas durante o desenvolvimento
 
